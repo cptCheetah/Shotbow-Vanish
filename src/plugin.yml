@@ -1,0 +1,16 @@
+name: Pooped
+main: com.topoedits.Main
+description: Plugin By ToPoEdiTs (I Like Shotbow Server)
+version: 1.2
+commands:
+    pooped:
+        description: First Command.
+    ebpooped:
+        description: Enable Plugin.
+    dspooped:
+        description: Disable Plugin.
+    rlpooped:
+        descreption: Reload Plugin.
+permission:
+    admin.pooped:
+        description: Acces To Commands.
